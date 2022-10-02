@@ -1,6 +1,6 @@
 # BikeSharing
 ## BikeSharing Overview
-The purpose of this project is to analyze and visualize the CitiBike data from August 2019. It will be used to develop a plan for a pilot in Des Moines.
+The purpose of this project is to analyze and visualize the CitiBike data from August 2019. It will be used to determine how the business model actually works and to present a business proposal for a bike-sharing company in Des Moines Iowa.  
 
 ## Resources
 Software:
@@ -9,7 +9,7 @@ Software:
 * Tableau Public
 
 Data: 
-* [201909-citibike-tripdata.csv] (/data/201909-citibike-tripdata.csv)
+* 201909-citibike-tripdata.csv
 
 ## Results
 ### The following results are based on data from August 2019, the most popular month in CitiBike data.
@@ -90,7 +90,7 @@ __Chart Insights__
 
 ## BikeSharing Summary
 
-A ride-share program like CitiBike is very popular in busy metro areas. It would be a great addition to a larger urban community where parking spaces may be scarce. Male subscribers are the main user base of the business model. Most rides are short and less than one hour and peak during morning and evening communte times.  More outreach to female riders should be done. 
+A ride-share program like CitiBike is very popular in busy metro areas like New York City, and would be a great addition to a larger urban community where parking spaces may be scarce. From the data, we've learned most rides are short, lasting less than one hour.  Peak riding hours are during morning and evening commute times. Male subscribers are the main user base of the business model. The data also shws that female users are a much smaller segment of the customer base and more outreach and marketing should be done to them.
 
 Additional analysis to consider:
 
