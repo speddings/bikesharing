@@ -12,8 +12,7 @@ Data:
 * 201909-citibike-tripdata.csv
 
 ## Results
-### The following results are based on data from August 2019, the most popular month in CitiBike data.
-Analyzing data from NYC as a tool for developing a pilot in Des Moines should be wholistic. covering customer base, usage patterns, and repairs.  
+Data analysis of New York city data will help understand the bike-share business model. the following results cover the customer base, usage patterns and repairs. The New York city data used is from August 2019, the most popular month in CitiBike data.
 
 View the full dashboard story on [Tableau Public](https://public.tableau.com/app/profile/shannon.eddings/viz/CitiBikeStory_16646451143910/NYCstory).
 
